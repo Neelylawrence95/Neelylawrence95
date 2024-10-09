@@ -33,6 +33,10 @@
 
 	- Repository: https://github.com/Neelylawrence95/CreditCardFraud_Research/tree/main
 
+🏪 Snowflake Store Project
+
+	- Repository: https://github.com/Neelylawrence95/Snowflake_Store_Project
+
 
 <!--
 **Neelylawrence95/Neelylawrence95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
