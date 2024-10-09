@@ -4,6 +4,9 @@
 <div align="center">
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div>
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
+</div>
 <!--
 **Neelylawrence95/Neelylawrence95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
