@@ -6,7 +6,10 @@
 
 
 ## 📃 Certifications
-- SheCodes Web Development Certification
+- Azure Fundamentals
+- ITIL v4 Foundation
+- Splunk Core Certified Power User
+- Google Cloud Engineer
 <!--
 **Neelylawrence95/Neelylawrence95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
