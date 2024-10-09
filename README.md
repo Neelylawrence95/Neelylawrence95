@@ -1,4 +1,13 @@
 ## 🎮 About Me
+🌐 Cybersecurity Enthusiast: Specializing in risk assessments, compliance, and threat remediation.
+📊 Data Analytics Professional: Skilled in leveraging tools like Splunk, SQL, and KQL for insights and decision-making.
+🎮 Gamer at Heart: Passionate about video gaming and its intersection with technology.
+✍️ Creative Writer: Enjoys writing poetry as a form of expression and creativity.
+🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Cybersecurity and Business Intelligence (University of Washington).
+👨‍💻 Systems Engineer Experience: Managed critical system performance, compliance, and implemented cutting edge technologies for major corporations like Charles Schwab and Microsoft.
+🛠 Technical Toolbox: Proficient in programming (SQL, R,etc.), cloud platforms (Azure, AWS, Google Cloud), and various tools like Splunk, PowerBI, and Tableau.
+🏅 Certified Professional: Holds certifications including Azure Fundamentals, ITIL, Splunk Core Power User, and Google Cloud Associate Cloud Engineer.
+🤝 Dedicated Volunteer: Actively involved in family-led organizations like the Robert Barney Prostate Cancer Foundation and Saving Our Boys, focusing on community service and awareness initiatives.
 
 
 ## 🖥️ Tech Stack
