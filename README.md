@@ -14,7 +14,7 @@
 ## 🧑🏿‍💻 Side Projects - Continous Learning
 💳 Credit Card Research
 
-- https://github.com/Neelylawrence95/CreditCardFraud_Research/tree/main
+	- https://github.com/Neelylawrence95/CreditCardFraud_Research/tree/main
 
 
 <!--
