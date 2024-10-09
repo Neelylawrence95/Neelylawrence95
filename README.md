@@ -12,6 +12,11 @@
 - Google Cloud Engineer
 
 ## 🧑🏿‍💻 Side Projects - Continous Learning
+💳 Credit Card Research
+
+- https://github.com/Neelylawrence95/CreditCardFraud_Research/tree/main
+
+
 <!--
 **Neelylawrence95/Neelylawrence95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
