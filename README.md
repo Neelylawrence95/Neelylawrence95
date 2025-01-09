@@ -9,7 +9,9 @@
 
 🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Cybersecurity and Business Intelligence (University of Washington).
 
-👨‍💻 Systems Engineer Experience: Managed critical system performance, compliance, and implemented cutting edge technologies for major corporations like Charles Schwab and Microsoft.
+🤝 Customer Success Advocate: Adept at handling escalated critical issues and tickets, ensuring customer satisfaction and effective resolution.
+
+👨‍💻 Systems Engineer Experience: Managed system performance, compliance, and implemented cutting edge technologies for major corporations like Charles Schwab and Microsoft.
 
 🛠 Technical Toolbox: Proficient in programming (SQL, R,etc.), cloud platforms (Azure, AWS, Google Cloud), and various tools like Splunk, PowerBI, and Tableau.
 
