@@ -3,19 +3,19 @@
 
 📊 Data Analytics Professional: Skilled in leveraging tools like Splunk, SQL, and KQL for insights and decision-making.
 
-🎮 Gamer at Heart: Passionate about video gaming and its intersection with technology.
-
-✍️ Creative Writer: Enjoys writing poetry as a form of expression and creativity.
-
-🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Cybersecurity and Business Intelligence (University of Washington).
-
 🤝 Customer Success Advocate: Adept at handling escalated critical issues and tickets, ensuring customer satisfaction and effective resolution.
 
 👨‍💻 Systems Engineer Experience: Managed system performance, compliance, and implemented cutting edge technologies for major corporations like Charles Schwab and Microsoft.
 
 🛠 Technical Toolbox: Proficient in programming (SQL, R,etc.), cloud platforms (Azure, AWS, Google Cloud), and various tools like Splunk, PowerBI, and Tableau.
 
+🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Cybersecurity and Business Intelligence (University of Washington).
+
 🏅 Certified Professional: Holds certifications including Azure Fundamentals, ITIL, Splunk Core Power User, and Google Cloud Associate Cloud Engineer.
+
+🎮 Gamer at Heart: Passionate about video gaming and its intersection with technology.
+
+✍️ Creative Writer: Enjoys writing poetry as a form of expression and creativity.
 
 🤝 Dedicated Volunteer: Actively involved in family-led organizations like the Robert Barney Prostate Cancer Foundation and Saving Our Boys, focusing on community service and awareness initiatives.
 
