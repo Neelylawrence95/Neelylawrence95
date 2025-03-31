@@ -1,5 +1,9 @@
 ## 🎮 About Me
 
+🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Information Architecture, Project/Product Management (Consulting), and Business Intelligence (University of Washington).
+
+📁 Information & Records Management Enthusiast: Passionate about records retention, data governance, and compliance auditing. Experienced in managing enterprise content management systems (ECM) and vendor relationships to optimize information lifecycle management.
+
 🤝 Customer Success Advocate: Adept at handling escalated critical issues and tickets, ensuring customer satisfaction and effective resolution.
 
 👨‍💻 Systems Engineer Experience: Managed system performance, compliance, and implemented cutting edge technologies for major corporations like Charles Schwab and Microsoft.
@@ -9,8 +13,6 @@
 🛠 Technical Toolbox: Proficient in programming (SQL, R,etc.), cloud platforms (Azure, AWS, Google Cloud), and various tools like Splunk, PowerBI, and Tableau.
 
 🌐 Cybersecurity Enthusiast: Specializing in risk assessments, compliance, and threat remediation.
-
-🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Cybersecurity and Business Intelligence (University of Washington).
 
 🏅 Certified Professional: Holds certifications including Azure Fundamentals, ITIL, Splunk Core Power User, and Google Cloud Associate Cloud Engineer.
 
