@@ -1,8 +1,8 @@
 ## 🎮 About Me
 
-🎓 Graduate Student: Pursuing M.S. in Information Management with a focus on Information Architecture, Project/Product Management (Consulting), and Business Intelligence (University of Washington).
+🎓 Masters Degree Holder: Earned my M.S. in Information Management with a focus on Information Architecture, Project/Product Management (Consulting), and Data Management from the University of Washington.
 
-📁 Information & Records Management Enthusiast: Passionate about records retention, data governance, and compliance auditing. Experienced in managing enterprise content management systems (ECM) and vendor relationships to optimize information lifecycle management.
+📁 Information Management Enthusiast: Passionate about ontology, data governance,data modeling and digital archiving. Experienced in managing enterprise content management systems (ECM) and vendor relationships to optimize information lifecycle management.
 
 🤝 Customer Success Advocate: Adept at handling escalated critical issues and tickets, ensuring customer satisfaction and effective resolution.
 
